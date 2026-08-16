@@ -1,6 +1,9 @@
 # 🌡️ Conversor de Temperatura
 
-Um aplicativo simples de console em **Java** que realiza a conversão de temperaturas a partir de graus Celsius (°C) para Fahrenheit (°F) e Kelvin (K).
+<img width="228" height="87" alt="image" src="https://github.com/user-attachments/assets/4938ec54-3c89-44ab-a550-1a36338affb9" />
+
+Um aplicativo simples de console em **Java** que realiza a conversão de temperaturas a partir de graus Celsius (°C) 
+para Fahrenheit (°F) e Kelvin (K).
 
 ---
 
